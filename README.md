@@ -4,3 +4,4 @@ OLÁ, SEJA BEM-VINDO AO MEU LIVRO DE RECEITAS:
 
 - STROGNOF DE FRANGO
 - Pavê
+- Bolo de Chocolate
